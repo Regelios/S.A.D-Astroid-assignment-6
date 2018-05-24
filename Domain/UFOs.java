@@ -1,4 +1,5 @@
-package Application;
+package Domain;
+
 public class UFOs {
 	public void initUfo() {
 

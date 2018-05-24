@@ -1,4 +1,4 @@
-package Application;
+package Domain;
 import java.awt.Polygon;
 
 public class Explosions {

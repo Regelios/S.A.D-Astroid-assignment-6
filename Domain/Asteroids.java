@@ -1,4 +1,4 @@
-package Application;
+package Domain;
 
 /******************************************************************************
   Asteroids, Version 1.3

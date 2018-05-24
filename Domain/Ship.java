@@ -1,4 +1,4 @@
-package Application;
+package Domain;
 
 public class Ship {
 
